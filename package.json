@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "your-project-elena",
+=======
+  "name": "user-profile-lite",
+>>>>>>> a0a10add8570a35177d2b556c9989b9dee886829
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,13 +19,21 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
+<<<<<<< HEAD
     "@types/react": "^19.2.7",
+=======
+    "@types/react": "^19.2.5",
+>>>>>>> a0a10add8570a35177d2b556c9989b9dee886829
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
+<<<<<<< HEAD
     "vite": "^7.3.1"
+=======
+    "vite": "^7.2.4"
+>>>>>>> a0a10add8570a35177d2b556c9989b9dee886829
   }
 }

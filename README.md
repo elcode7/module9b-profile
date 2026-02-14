@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,21 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+ # Module 9A - Build Your First React Component
+
+## Description
+This is a React app created using Vite that renders a UserProfile component. The component includes a name, bio, and image styled with inline CSS.
+
+## What I Learned
+- How to set up a React project using Vite
+- How to write and structure a functional React component
+- How to use JSX and inline styles
+- How to render a component in App.jsx
+
+## Challenges
+## Challenges
+I had some confusion with component imports and file paths at first, which caused errors when rendering the component. Checking the file structure and restarting the Vite server helped fix the issue.
+## Screenshot
+ 
+>>>>>>> a0a10add8570a35177d2b556c9989b9dee886829
