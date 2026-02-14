@@ -1,35 +1,11 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
- # Module 9A - Build Your First React Component
-
 ## Description
-This is a React app created using Vite that renders a UserProfile component. The component includes a name, bio, and image styled with inline CSS.
+This is a React app built with Vite. It contains a profile component styled with inline CSS.
 
 ## What I Learned
-- How to set up a React project using Vite
-- How to write and structure a functional React component
-- How to use JSX and inline styles
-- How to render a component in App.jsx
+- How to use JSX
+- How to style with inline CSS
+- How to create and render functional components
 
 ## Challenges
-## Challenges
-I had some confusion with component imports and file paths at first, which caused errors when rendering the component. Checking the file structure and restarting the Vite server helped fix the issue.
+One issue I encountered was importing and rendering the UserProfile component correctly in App.jsx. At first, I forgot to export the component properly and received an error in the browser. I resolved this by adding export default UserProfile; at the bottom of the file and ensuring the import path in App.jsx was correct.
 ## Screenshot
- 
->>>>>>> a0a10add8570a35177d2b556c9989b9dee886829
